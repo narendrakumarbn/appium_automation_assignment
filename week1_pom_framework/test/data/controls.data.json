@@ -1,0 +1,14 @@
+[
+    {
+        "label": "single first name",
+        "name": "Narendra"
+    },
+    {
+        "label": "full name with spaces",
+        "name": "Gagan R Gowda"
+    },
+    {
+        "label": "alphanumeric handle",
+        "name": "narendra123"
+    }
+]

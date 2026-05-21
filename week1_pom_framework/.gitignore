@@ -1,0 +1,12 @@
+# Dependencies
+node_modules/
+
+# Allure - generated every run, never committed
+allure-results/
+allure-report/
+
+# Logs / OS noise
+*.log
+.DS_Store
+Thumbs.db
+*.png

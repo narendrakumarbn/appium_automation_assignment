@@ -1,0 +1,18 @@
+# Dependencies
+node_modules/
+
+# Allure reporting (generated each run)
+allure-results/
+allure-report/
+.allure/
+
+# Failure artefacts (generated each run)
+screenshots/
+
+# Logs / OS files
+*.log
+.DS_Store
+Thumbs.db
+*.png
+
+*.local.json
